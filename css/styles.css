@@ -1,0 +1,25 @@
+@import "reset.css";
+@import "components/statusbar.css";
+@import "components/navbar.css";
+@import "components/screenheader.css";
+@import "screens/friends.css";
+@import "components/user-components.css";
+@import "components/badge.css";
+@import "screens/find.css";
+@import "screens/more.css";
+@import "components/icon-row.css";
+@import "components/alt-screen-header.css";
+@import "screens/chat.css";
+@import "components/no-mobile.css";
+body {
+    margin: 0px;
+}
+.main-screen {
+    margin: 0px 5px;
+}
+.find-screen {
+    margin:0px 25px;
+}
+.more-screen {
+    margin:0px 20px 0px 5px;
+}
